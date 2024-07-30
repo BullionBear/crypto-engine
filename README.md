@@ -2,7 +2,7 @@
 
 [![Go](https://github.com/BullionBear/crypto-engine/actions/workflows/go.yml/badge.svg)](https://github.com/yitech/golang-grpc-template/actions/workflows/go.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/BullionBear/crypto-engine)](https://goreportcard.com/report/github.com/BullionBear/crypto-engine)
-[![codecov](https://codecov.io/github/BullionBear/crypto-engine/graph/badge.svg?token=1HMHMRC895)](https://codecov.io/github/BullionBear/crypto-engine)
+[![codecov](https://codecov.io/gh/BullionBear/crypto-engine/graph/badge.svg?token=EYQLFL9HN6)](https://codecov.io/gh/BullionBear/crypto-engine)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Crypto Engine
