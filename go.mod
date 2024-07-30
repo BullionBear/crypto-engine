@@ -1,4 +1,4 @@
-module github.com/yitech/go-grpc-template
+module github.com/BullionBear/crypto-engine
 
 go 1.22.0
 

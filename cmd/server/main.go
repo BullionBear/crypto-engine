@@ -4,8 +4,8 @@ import (
 	"log"
 	"net"
 
-	api "github.com/yitech/go-grpc-template/api/helloworld"
-	pb "github.com/yitech/go-grpc-template/grpc/helloworld"
+	api "github.com/BullionBear/crypto-engine/api/helloworld"
+	pb "github.com/BullionBear/crypto-engine/grpc/helloworld"
 	"google.golang.org/grpc"
 )
 

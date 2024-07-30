@@ -1,13 +1,13 @@
 <img src="https://go.dev/images/gophers/pink.svg" width="150" height="150">
 
-[![Go](https://github.com/yitech/go-grpc-template/actions/workflows/go.yml/badge.svg)](https://github.com/yitech/golang-grpc-template/actions/workflows/go.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/yitech/go-grpc-template)](https://goreportcard.com/report/github.com/yitech/go-grpc-template)
-[![codecov](https://codecov.io/github/yitech/go-grpc-template/graph/badge.svg?token=1HMHMRC895)](https://codecov.io/github/yitech/go-grpc-template)
+[![Go](https://github.com/BullionBear/crypto-engine/actions/workflows/go.yml/badge.svg)](https://github.com/yitech/golang-grpc-template/actions/workflows/go.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/BullionBear/crypto-engine)](https://goreportcard.com/report/github.com/BullionBear/crypto-engine)
+[![codecov](https://codecov.io/github/BullionBear/crypto-engine/graph/badge.svg?token=1HMHMRC895)](https://codecov.io/github/BullionBear/crypto-engine)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Go gRPC Template
+# Crypto Engine
 
-This repository provides a basic template for building gRPC services in Go. It includes a simple gRPC server and client example, along with a Makefile for easy management of the build process.
+Crypto Engine is a distributed system integrated feed, indicator, and trade as a monolithic repo.
 
 ## Directory Structure
 ```bash

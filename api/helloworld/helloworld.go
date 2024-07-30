@@ -3,7 +3,7 @@ package api
 import (
 	"context"
 
-	pb "github.com/yitech/go-grpc-template/grpc/helloworld"
+	pb "github.com/BullionBear/crypto-engine/grpc/helloworld"
 )
 
 // HelloWorld implements the GreeterServer interface.
